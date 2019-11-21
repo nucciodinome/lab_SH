@@ -5,7 +5,7 @@ Il compito che, cortesemente, vi chiediamo di eseguire è molto semplice ma ci s
 #
 All'interno di questa cartella troverete un file Excel da scaricare sui vostri laptop. 
 
-Al suo interno del file, una lista di organizzazioni ed enti (colonna "SH NAME") povenienti da 8 nazioni europee.
+Al suo interno, una lista di organizzazioni ed enti (colonna "SH NAME") provenienti da 8 nazioni europee.
 
 A ciascuno dei voi è stata attribuita una lettera alfabetica (da A ad H) corrispondente al vostro gruppo di lavoro.
 
